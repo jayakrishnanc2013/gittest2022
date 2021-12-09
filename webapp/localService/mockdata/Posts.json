@@ -1,0 +1,63 @@
+[
+  {
+	"PostID": "PostID_1",
+	"Title": "29'er Mountain Bike (red)",
+	"Timestamp": "/Date(1428223780000)/",
+	"Description": "A great mountainbike, barely used and good as new. Pedals and saddle included",
+	"Category": "Bicycles",
+	"Contact": "contact.me07@gmail.com",
+	"Currency": "USD",
+	"Price": 81,
+	"Flagged": 0,
+	"Location":"Chennai"
+  },
+  {
+	"PostID": "PostID_2",
+	"Title": "Football (rare with signatures)",
+	"Timestamp": "/Date(1428504382000)/",
+	"Description": "A trophy for collectors, 2014 football with original signatures from the german national soccer team and the spirit of the world cup.",
+	"Category": "Sports",
+	"Contact": "soccernerd@hotmail.de",
+	"Currency": "EUR",
+	"Price": 420,
+	"Flagged": 0,
+	"Location":""
+  },
+  {
+	"PostID": "PostID_3",
+	"Title": "Video Games",
+	"Timestamp": "/Date(1433357393000)/",
+	"Description": "A collection of 22 classic video games from 1986 to 1992, old but still a lot of fun",
+	"Category": "Multimedia",
+	"Contact": "RogerRoger@gmail.com",
+	"Currency": "USD",
+	"Price": 27,
+	"Flagged": 0,
+	"Location":"Trichy"
+  },
+  {
+	"PostID": "PostID_4",
+	"Title": "Fluffy Teddy Bear",
+	"Timestamp": "/Date(1429892877000)/",
+	"Description": "This little companion is looking for a new friend, it is brown and has black eyes. One ear is missing.",
+	"Category": "Toys",
+	"Contact": "rainbow.glitter03@gmail.com",
+	"Currency": "USD",
+	"Price": 13,
+	"Flagged": 1,
+	"Location":"Thanjavur"
+  },
+  {
+	"PostID": "PostID_5",
+	"Title": "Car Tires, 22 Inch",
+	"Timestamp": "/Date(1423579562000)/",
+	"Description": "Spare winter tires for a compact-size car, 4 tires with good profile.",
+	"Category": "Car parts",
+	"Contact": "superpacer@gmail.com",
+	"Currency": "USD",
+	"Price": 121,
+	"Flagged": 0,
+	"Location":""
+  }
+ 
+]
